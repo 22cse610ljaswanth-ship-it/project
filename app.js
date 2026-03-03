@@ -1,7 +1,7 @@
 function m1()
 {
     console.log("hello world")
-    console.log("good afternoon")
+    console.log("god")
 }
 for(let i=0;i<5;i++)
 {
